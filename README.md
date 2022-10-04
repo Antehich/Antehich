@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Antehich
 - 👀 I’m interested in ... programming learning
-- 🌱 I’m currently learning ... C/C++
+- 🌱 I’m currently learning ... C/C++, Python, Rust, JavaScript
 - 💞️ I’m looking to collaborate on ... student projects
 - 📫 How to reach me ... westonefer@gmail.com
 
